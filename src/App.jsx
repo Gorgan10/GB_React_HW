@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import {Messages} from "./Components/Messages";
+import {Messages} from "./components/Messages";
 
 
 export const App = () => {
